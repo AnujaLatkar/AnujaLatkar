@@ -7,16 +7,7 @@
   </a>
 </p>
 
-<!-- Social Links -->
-<p align="center">
-  <a href="mailto:ASPATIL2904@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/iam_adi29">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <!-- Add your LinkedIn or Twitter here if you want! -->
-  <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+
 </p>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
@@ -52,12 +43,10 @@ I’m **Anuja Arun Latkar**, A passionate technology enthusiast skilled in progr
 
 
 
-## 📊 GitHub Stats
+
 
   
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
-</div>
+  
 
 <br>
 
